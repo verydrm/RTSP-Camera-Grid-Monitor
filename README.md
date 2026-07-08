@@ -384,16 +384,6 @@ CAMERAS = [
 
 The application imports this list automatically.
 
-Never commit your own `config.py` to GitHub.
-
-Instead, commit:
-
-```
-sample_config.py
-```
-
-and add `config.py` to `.gitignore`.
-
 ---
 
 ## Running the Application
@@ -1214,7 +1204,6 @@ Your camera credentials remain stored locally in `config.py`.
 
 For security reasons:
 
-* Never commit `config.py` to GitHub.
 * Always use strong passwords for your cameras.
 * Consider placing cameras on an isolated VLAN or dedicated network if possible.
 
@@ -1328,8 +1317,6 @@ https://verydrm.com
 
 # GitHub Topics
 
-Consider adding these repository topics on GitHub:
-
 ```text
 rtsp
 camera
@@ -1353,11 +1340,9 @@ desktop-application
 windows
 ```
 
-These topics can improve discoverability within GitHub.
-
 ---
 
-# SEO Keywords
+# Project Keywords
 
 The following keywords are naturally associated with this project:
 
