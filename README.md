@@ -1,11 +1,9 @@
 # RTSP-Camera-Grid-Monitor
 Ultra-low latency 3×3 RTSP Multi-Camera RTSP Viewe with embedded ffplay, automatic reconnect, and one-click fullscreen.
 
-# RTSP Camera Grid Monitor
-
 <p align="center">
 
-<img src="screenshots/logo.png" width="180">
+<img src="" width="180">
 
 </p>
 
