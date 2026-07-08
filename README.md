@@ -39,7 +39,7 @@ Designed for home surveillance, small offices, workshops, warehouses, and DIY mo
 
 ## Camera Grid
 
-![Grid](screenshots/grid.png)
+![Grid]
 
 Display up to **9 RTSP cameras simultaneously** in a responsive 3×3 layout.
 
@@ -49,7 +49,7 @@ Each camera runs independently, allowing automatic recovery if a stream disconne
 
 ## Fullscreen Mode
 
-![Fullscreen](screenshots/fullscreen.png)
+![Fullscreen]
 
 Double-click any camera to instantly open the corresponding **main stream** in fullscreen mode.
 
